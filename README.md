@@ -5,5 +5,5 @@ I use programming to help me in my research and musicological analysis. I am a n
 Most of the time I use Python for my projects. I use a lot the package [music21](https://github.com/cuthbertLab/music21) for musicological projects.
 I have some notions in C++ and HTML/CSS/JavaScript.
 ## I’m looking for…
-I am searching for a way to create and manipulate SVG file with Python.
-I’m looking for Python module to handle real time musical projects.
+- I am searching for a way to create and manipulate SVG file with Python.
+- I’m looking for Python module to handle real time musical projects.
